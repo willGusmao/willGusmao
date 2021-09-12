@@ -4,7 +4,7 @@
 - 📌 Skills: HTML, CSS, C, Java.
 - 🔭Busco projetos para colaborar e aprender, explorando o mundo do backend 
 - 📚 atualmente estudando Java e Mysql server
-- 🕵🏽‍♀️ Entusiasta de Segurança da Informação/Cybersecurity
+- 🕵🏽‍♀️ Entusiasta de IA/Automação 
 - 😄 Pronouns:ele/dele
 
 <div>
