@@ -1,7 +1,7 @@
 ### Olá pessoal,sejam bem vindos ao meu GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🎓 Analise e desenvolvimento de sistemas|FMU
 - 👩🏽‍💻 Desenvolvedor em formação apaixonado por Tecnologia
-- 📌 Skills: HTML, CSS, C, Java.
+- 📌 Skills: HTML, CSS, C, Java,MySql.
 - 🔭Busco projetos para colaborar e aprender, explorando o mundo do backend 
 - 📚 atualmente estudando Java e Mysql server
 - 🕵🏽‍♀️ Entusiasta de IA/Automação 
